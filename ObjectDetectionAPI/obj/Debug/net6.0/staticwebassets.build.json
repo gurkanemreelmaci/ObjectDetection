@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rw3J2HgTvLk3bmrbOXvLWuQGdQsrbUSzqLthLqfTDXc=",
+  "Source": "Object_Detection",
+  "BasePath": "_content/Object_Detection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
