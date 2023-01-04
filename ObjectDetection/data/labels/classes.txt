@@ -1,0 +1,3 @@
+buyuk_su
+kucuk_su
+bardak
